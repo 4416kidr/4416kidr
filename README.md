@@ -42,3 +42,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true" />
 </picture>
+
+# 参考サイト
+- [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
+- [Github Stats](https://github.com/anuraghazra/github-readme-stats)
