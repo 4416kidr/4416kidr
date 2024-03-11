@@ -15,3 +15,28 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/TooFuu/contributions.svg" />
   </a>
 </p>
+
+<p align="left"> 
+  <a href="https://gitstar-ranking.com/4416kidr">
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2F4416kidr%2Fshields" />
+  </a>
+  <a href="https://user-badge.committers.top/japan/4416kidr">
+    <img height="20" src="https://user-badge.committers.top/japan/4416kidr.svg" />
+  </a>
+</p>
+
+<div align="left">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/4416kidr"/>  
+</div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true" />
+</picture>
