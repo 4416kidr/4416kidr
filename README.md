@@ -31,16 +31,17 @@
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/4416kidr"/>  
 </div>
 
+<!-- GitHub Stats Card -->
 <picture>
   <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true&theme=aura"
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true&theme=aura"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true" />
+  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true" />
 </picture>
 
 <!-- Top Languages Card -->
