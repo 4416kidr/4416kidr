@@ -4,9 +4,6 @@
   <a href="https://github.com/4416kidr/4416kidr/">
     <img src="https://komarev.com/ghpvc/?username=4416kidr" alt="4416kidr" />
   </a>
-  <a href="http://twitter.com/toofuunegi">
-    <img height="20" src="https://img.shields.io/twitter/follow/toofuunegi?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/4416kidr">
     <img height="20" src="https://img.shields.io/github/followers/4416kidr?label=follow&logo=github&style=flat" />
   </a>
@@ -40,7 +37,11 @@
 <!-- GitHub Profile Trophy -->
 [![4416kidr's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=4416kidr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 参考サイト
+## Twitter
+
+<a href="https://twitter.com/toofuunegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toofuunegi" height="30" width="40" /></a>
+
+## 参考サイト
 
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 - [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
