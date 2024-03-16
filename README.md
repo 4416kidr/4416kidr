@@ -33,16 +33,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true&theme=aura"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true"
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=4416kidr&show_icons=true" />
+  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true" />
 </picture>
 
 # 参考サイト
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
-- [Github Stats](https://github.com/anuraghazra/github-readme-stats)
+- [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
