@@ -43,6 +43,19 @@
   <img src="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&show_icons=true" />
 </picture>
 
+<!-- Top Languages Card -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal&theme=aura"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal" />
+</picture>
+
 # 参考サイト
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 - [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
