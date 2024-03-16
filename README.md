@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://gitstar-ranking.com/4416kidr">
     <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2F4416kidr%2Fshields" />
   </a>
@@ -71,6 +71,10 @@
 </picture>
 
 # 参考サイト
+
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 - [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+- [レスポンシブ画像 (MDN)](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#%E3%82%A2%E3%83%BC%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
+  - ユーザの環境によって表示させる画像を変える
+    - > `<video>`や`<audio>`と同様に、`<picture>` 要素はラッパーで、ブラウザーが選択できるいくつかの異なるソースを提供するいくつかの `<source>` 要素を含み、次に極めて重要な `<img>` 要素が続きます。
