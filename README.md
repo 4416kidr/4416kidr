@@ -32,49 +32,16 @@
 </div>
 
 <!-- GitHub Stats Card -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true&theme=aura"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true" />
-</picture>
+[![4416kidr's GitHub Stats Card](https://github-readme-stats-ashy-six-28.vercel.app/api?username=4416kidr&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=default&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages Card -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal&theme=aura"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal" />
-</picture>
+[![4416kidr's Top Languages Card](https://github-readme-stats-ashy-six-28.vercel.app/api/top-langs?username=4416kidr&exclude_repo=SampleToYusya,Giri-2Yusya,GakusaiGame,skydiving&hide=ejs,twig&size_weight=0.75&count_weight=0.25&langs_count=20&layout=normal&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub Profile Trophy -->
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=4416kidr&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=4416kidr&theme=oldie"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=4416kidr" />
-</picture>
+[![4416kidr's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=4416kidr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 参考サイト
 
 - [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
 - [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-- [レスポンシブ画像 (MDN)](https://developer.mozilla.org/ja/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#%E3%82%A2%E3%83%BC%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
-  - ユーザの環境によって表示させる画像を変える
-    - > `<video>`や`<audio>`と同様に、`<picture>` 要素はラッパーで、ブラウザーが選択できるいくつかの異なるソースを提供するいくつかの `<source>` 要素を含み、次に極めて重要な `<img>` 要素が続きます。
